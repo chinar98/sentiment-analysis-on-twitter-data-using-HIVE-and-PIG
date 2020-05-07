@@ -15,3 +15,4 @@ The analysis is done using Hadoop ecosystem tools such as Apache Hive and Apache
 Performance in terms of execution time is compared for analysis 
 using Pig and Hive. From the experimental results,
 conclusion can be drawn that Pig is more efficient than Hive as Pig takes less time for execution than Hive.
+https://medium.com/@sakrikarchinar/sentiment-analysis-on-demonetization-tweets-pig-66cfa557a8b9
